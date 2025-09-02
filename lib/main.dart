@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(title: const Text('PRAKTIKUM MOBILE LANJUT')),
         body: const Center(
           child: Text(
-            'Hallo Nama Saya Dhimas Dzulfajri Kelas B',
+            'Hallo Nama Saya Dhimas Dzulfajri Kelas B Cihuyy',
             textAlign: TextAlign.center,
           ),
         ),
